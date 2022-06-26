@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "auth.provider-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.provider-uri'"
+  },
+  {
+    "name": "auth.jks.keypass",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.jks.keypass'"
+  },
+  {
+    "name": "auth.jks.storepass",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.jks.storepass'"
+  },
+  {
+    "name": "auth.jks.alias",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.jks.alias'"
+  },
+  {
+    "name": "auth.jks.path",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.jks.path'"
+  }
+]}
